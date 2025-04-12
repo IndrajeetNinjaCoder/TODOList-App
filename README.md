@@ -3,9 +3,6 @@
 
 A full-stack Todo List application built using **React.js** for the frontend and **Node.js + Express.js + MongoDB** for the backend. This project is developed as part of a **Web Developer Intern Assignment**.
 
-## 🌐 Live UI Design
-Figma Link: [To-Do App UI](https://www.figma.com/design/1iVgCn5lvTKHvkeYxkNnXZ/To-Do-(Sample)?node-id=1-2)
-
 ## 📦 Tech Stack
 
 ### Frontend
@@ -77,18 +74,8 @@ npm start
 
 The frontend should now be running on `http://localhost:3000` and backend on `http://localhost:8000`.
 
----
-
-## 📷 UI Preview
-
-![UI Preview](preview.png)
-
----
-
 ## 📌 Notes
 
-- Avoided excessive client-side rendering (CSR).
 - Backend built with RESTful API structure.
 - State managed with React hooks.
 
----
